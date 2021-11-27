@@ -1,7 +1,9 @@
 # DofE-Bronze
 All of my code for my DofE Bronze Awards
 
-# Random Stats
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/gatelogic/DofE-Bronze)
-
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=gatelogic&show_icons=true)
+# Note for Assessors 
+>If you need photo evidience, please ask my DofE leader.
+>
+>Most console logs are found in a `console.txt` file.
+>
+>To run any of these, download and compile the `Main.java` file and compile it your self or run the `Main.class` file.
