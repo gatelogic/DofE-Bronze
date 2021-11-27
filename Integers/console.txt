@@ -1,0 +1,10 @@
+123
+My number is: 123
+1541526319851236156 - this is a long data type
+100 - this is a byte data type
+45984.12859 - this is a double data type
+256.156 - this is a float data type
+true - this is a boolean data type
+f - this is a char data type
+GateLogic! - this is a string data type
+Hey GateLogic!
